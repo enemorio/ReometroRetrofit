@@ -1,2 +1,2 @@
 # ReometroRetrofit
-Arduino/Python retorfit of a ods reometer and (so far) an HX711 board
+Arduino/Python retrofit of an ODS100 reometer using an HX711 board
